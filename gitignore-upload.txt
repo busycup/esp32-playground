@@ -1,0 +1,15 @@
+# Private info — never upload Wi-Fi passwords
+secrets.h
+config_private.h
+
+# PlatformIO build output (regenerated automatically)
+.pio/
+.vscode/
+
+# Arduino build cache
+build/
+
+# OS / editor junk
+.DS_Store
+Thumbs.db
+*.tmp
